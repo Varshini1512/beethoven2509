@@ -5,8 +5,8 @@ args:firstNum,secondNum
 returns sum of the numbers
 '''
 def find_sum(firstNum,secondNum):
-    result=firstNum+secondNum
-    return result
+    return firstNum+secondNum
+    #return result
 
 print(find_sum(10,20))
 print(find_sum(20,30))
